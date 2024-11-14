@@ -1,10 +1,3 @@
----
-layout: post
-title: 沙特王储呼吁以色列：不要攻击伊朗
-date: '2024-11-13 16:35:29'
-permalink: /post/saudi-crown-prince-call-for-israel-don-t-attack-iran-z1dv8p6.html
-published: true
----
 
 # 沙特王储呼吁以色列：不要攻击伊朗
 
