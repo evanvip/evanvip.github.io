@@ -6,7 +6,7 @@ permalink: /post/saudi-crown-prince-call-for-israel-don-t-attack-iran-z1dv8p6.ht
 published: true
 ---
 
-# 沙特王储呼吁以色列：不要攻击伊朗
+
 
 ---
 
