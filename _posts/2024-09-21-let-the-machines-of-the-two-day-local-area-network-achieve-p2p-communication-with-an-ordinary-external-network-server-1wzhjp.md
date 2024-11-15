@@ -8,6 +8,10 @@ tagline: >-
   使用 WireGuard 来实现 NAS1、MacBook 和 S1 之间的直接 P2P 通讯是完全可行的。WireGuard 是一个现代的、快速的、安全的
   VPN 协议，非常适合用于点对点（P2P）连接。以下是一个技术部署方案，帮助你实现这个目标。
 published: true
+tags:
+  - NAS
+  - WireGuard
+  - 群辉
 ---
 
 
