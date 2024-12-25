@@ -19,7 +19,7 @@ adsf asdfj asdkf adsif nadsf
 
 ‍
 
-​![image](https://raw.githubusercontent.com/evanvip/evanvip.github.io/master/images/image-20241223095147-2exo5dv.png)​
+​![image](assets/image-20241223095147-2exo5dv.png)​
 
 这样的协防，问题到吗？
 
@@ -45,4 +45,6 @@ adsf asdfj asdkf adsif nadsf
 
 现在需要解决如何给予 docker  的版本 每周自动更新
 
-http://127.0.0.1:53074/https://raw.githubusercontent.com/evanvip/evanvip.github.io/master/images/image-20241223095147-2exo5dv.png
+http://127.0.0.1:53074/assets/image-20241223095147-2exo5dv.png
+
+asdfasdfasdfadfasdfasdf
